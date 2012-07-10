@@ -14,8 +14,8 @@ __END__
     %style 
     %style{:type => "text/css"}
       h1 {color:blue; margin:auto; width:80%; background-color:orange; text-shadow: 5px 5px 5px yellow; text-align:center}
-      h3 {color:yellow; margin:auto; width:50%; background-color:#b0e0e6; text-align:center}
-      h2 {color:red; position:fixed; top:405px; left:980px; margin:auto; width:30%; background-color:#b0e0e6; text-align:center; transform: rotate(90deg); -ms-transform: rotate(90deg); /* IE 9 */ -webkit-transform: rotate(90deg); /* Safari and Chrome */ -o-transform: rotate(90deg); /* Opera */ -moz-transform: rotate(90deg); /* Firefox */;}
+      h3 {color:yellow; margin:auto; width:50%; background-color:orange; text-align:center}
+      h2 {color:red; position:fixed; top:405px; left:980px; margin:auto; width:30%; background-color:orange; text-align:center; transform: rotate(90deg); -ms-transform: rotate(90deg); /* IE 9 */ -webkit-transform: rotate(90deg); /* Safari and Chrome */ -o-transform: rotate(90deg); /* Opera */ -moz-transform: rotate(90deg); /* Firefox */;}
       a {color:red}
       object#flashObj {position:fixed; top:200px; left:400px;}
       body {background-color:bisque;}
@@ -48,4 +48,4 @@ __END__
         %br
       #link 
         %h2 
-          %a{:href=>"http://zimadra2.herokuapp.com"} http://zimadra2.herokuapp.com
+          %a{:href=>"http://zimadra2.herokuapp.com"} Sinatra Portfolio
