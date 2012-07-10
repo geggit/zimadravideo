@@ -48,4 +48,4 @@ __END__
         %br
       #link 
         %h2 
-          %a{:href=>"http://zimadra2.herokuapp.com"} Sinatra Portfolio
+          %a{:href=>"http://sinatraportfolio.herokuapp.com/"} Sinatra Portfolio
