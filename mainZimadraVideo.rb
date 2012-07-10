@@ -13,7 +13,7 @@ __END__
   %head
     %style 
     %style{:type => "text/css"}
-      h1 {color:blue; margin:auto; width:80%; background-color:orange; text-shadow: 5px 5px 5px yellow; text-align:center}
+      h1 {color:orangered; margin:auto; width:80%; background-color:orange; text-shadow: 5px 5px 5px yellow; text-align:center}
       h3 {color:yellow; margin:auto; width:50%; background-color:orange; text-align:center}
       h2 {color:red; position:fixed; top:405px; left:980px; margin:auto; width:30%; background-color:orange; text-align:center; transform: rotate(90deg); -ms-transform: rotate(90deg); /* IE 9 */ -webkit-transform: rotate(90deg); /* Safari and Chrome */ -o-transform: rotate(90deg); /* Opera */ -moz-transform: rotate(90deg); /* Firefox */;}
       a {color:red}
@@ -23,9 +23,9 @@ __END__
     #container
       %header
         %br  
-        %h1 A bit about HIGGS boson
+        %h1 A bit of SCIENCE 
         %br
-        %h3 (pretty empty for now at initial stage, but soon it will grow...)
+        %h3 HIGGS boson
       #main
         %br
         %br
